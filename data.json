@@ -135,11 +135,12 @@
       "status": "Just Updated"
     },
     "iPhone 14": {
-  "advice": "Buy Now",
-  "average": "799",
-  "daysSinceLastRelease": "180",
-  "image": "https://cdn.macrumors.com/images-new/buyers-products/iphone_14_2024.png",
-  "name": "iPhone 14",
-  "releaseDate": "Sep 2023",
-  "status": "Mid-product Cycle"
+      "advice": "Buy Now",
+      "average": "799",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/iphone_14_2024.png",
+      "name": "iPhone 14",
+      "releaseDate": "Sep 2023",
+      "status": "Mid-product Cycle"
+    }
 }

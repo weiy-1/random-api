@@ -1,0 +1,145 @@
+{
+    "11\" iPad Pro (2024)": {
+      "advice": "Buy Now",
+      "average": "899",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/ipad_pro_11_2024.png",
+      "name": "11\" iPad Pro (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "12.9\" iPad Pro (2024)": {
+      "advice": "Buy Now",
+      "average": "1,099",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/ipad_pro_12_9_2024.png",
+      "name": "12.9\" iPad Pro (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "AirPods 4": {
+      "advice": "Buy Now",
+      "average": "99",
+      "daysSinceLastRelease": "30",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/airpods_4_2025.png",
+      "name": "AirPods 4",
+      "releaseDate": "Apr 2025",
+      "status": "Just Released"
+    },
+    "AirPods Pro 2": {
+      "advice": "Buy Now",
+      "average": "249",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/airpods_pro_2_2024.png",
+      "name": "AirPods Pro 2",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "Apple TV 2024": {
+      "advice": "Buy Now",
+      "average": "199",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/apple_tv_2024.png",
+      "name": "Apple TV 2024",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "Apple Watch Series 10": {
+      "advice": "Buy Now",
+      "average": "399",
+      "daysSinceLastRelease": "30",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/apple_watch_series_10.png",
+      "name": "Apple Watch Series 10",
+      "releaseDate": "Apr 2025",
+      "status": "Just Released"
+    },
+    "HomePod (2nd Gen)": {
+      "advice": "Neutral",
+      "average": "299",
+      "daysSinceLastRelease": "365",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/homepod_2nd_gen.png",
+      "name": "HomePod (2nd Gen)",
+      "releaseDate": "May 2024",
+      "status": "Mid-product Cycle"
+    },
+    "Mac Mini (M4, 2024)": {
+      "advice": "Buy Now",
+      "average": "599",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/mac_mini_m4_2024.png",
+      "name": "Mac Mini (M4, 2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "Mac Pro (2024)": {
+      "advice": "Buy Now",
+      "average": "5,999",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/mac_pro_2024.png",
+      "name": "Mac Pro (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "MacBook Air (M4, 2024)": {
+      "advice": "Buy Now",
+      "average": "849",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/macbook_air_m4_2024.png",
+      "name": "MacBook Air (M4, 2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "MacBook Pro (M4, 2024)": {
+      "advice": "Buy Now",
+      "average": "1,599",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/macbook_pro_m4_2024.png",
+      "name": "MacBook Pro (M4, 2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "iMac (2024)": {
+      "advice": "Buy Now",
+      "average": "1,299",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/imac_2024.png",
+      "name": "iMac (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "iPad (2024)": {
+      "advice": "Buy Now",
+      "average": "329",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/ipad_2024.png",
+      "name": "iPad (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "iPad Air (2024)": {
+      "advice": "Buy Now",
+      "average": "599",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/ipad_air_2024.png",
+      "name": "iPad Air (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "iPad Mini (2024)": {
+      "advice": "Buy Now",
+      "average": "499",
+      "daysSinceLastRelease": "180",
+      "image": "https://cdn.macrumors.com/images-new/buyers-products/ipad_mini_2024.png",
+      "name": "iPad Mini (2024)",
+      "releaseDate": "Nov 2024",
+      "status": "Just Updated"
+    },
+    "iPhone 14": {
+  "advice": "Buy Now",
+  "average": "799",
+  "daysSinceLastRelease": "180",
+  "image": "https://cdn.macrumors.com/images-new/buyers-products/iphone_14_2024.png",
+  "name": "iPhone 14",
+  "releaseDate": "Sep 2023",
+  "status": "Mid-product Cycle"
+}
